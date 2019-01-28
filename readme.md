@@ -1,24 +1,26 @@
 # Trillo Vacations
 
-## Trillo is a front-end project based on PSD design
+## Trillo is a front-end project based on a PSD/SKETCH designed by Jonas Schmedtmann - Designer
+
+### This project is part of an advanced CSS course
 
 ### Front-end
 
--   HTML
--   JavaScript (jQuery)
--   CSS & SASS
--   Responsive Design
--   Flex box design
+- HTML
+- JavaScript (jQuery)
+- CSS & SASS
+- Responsive Design
+- Flexbox design
 
 ---
 
 ### npm dev-dependencies
 
--   autoprefixer
--   concat
--   node-sass
--   npm-run-all
--   postcss-cli
+- autoprefixer
+- concat
+- node-sass
+- npm-run-all
+- postcss-cli
 
 ---
 
